@@ -7,16 +7,16 @@ alignItems: 'center',
 
 },
 Textobranco:{
-    color: 'red',
+    color: 'blue',
 
 },
 estiloInput:{
-    color:'red',
+    color:'#f50707',
     fontSize: 15,
 },
 
 estiloContainerInput:{
-    backgroundColor: 'green',
+    backgroundColor: 'white',
     borderRadius: 10,
     borderWidth: 1,
 }
